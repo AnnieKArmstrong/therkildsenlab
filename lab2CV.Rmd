@@ -1,0 +1,56 @@
+---
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo = FALSE}
+      h1, h2, h4 {
+        text-align: center
+        }
+```
+
+# **Anne Katherine Armstrong**
+#### 1443 Slaterville Road, Ithaca, NY 14850 | 781-264-7505 | aka@cornell.edu <br>
+#### https://www.linkedin.com/in/anne-armstrong-99916a6/
+
+## **EDUCAION**
+
+Cornell University, Ithaca, NY <br>
+**PhD Candidate, Department of Natural Resources and Environment ** 
+[Current]{style="float:right"}  
+<br><br>
+SUNY College of Environmental Sciace and Forestry, Syracuse, NY <br>
+**M.P.S., Environmental InterpretERation ** 
+[2010]{style="float:right"}
+<br><br>
+Hamilton College <br>
+**B.A., English Lteraure ** 
+[2006]{style="float:right"}
+
+# **Teaching Experience**
+
+
+### **Cornell University** 
+**Planning for Environmental Conservation and Sustainability** (NTRES 4600). (Graduate teaching assistant, facilitated in-class and online activities, graded assignments). 
+
+**Society and Natural Resources** (NTRES 2201). (Graduate Teaching Assistant, led discussion sections, graded exams, managed Canvas course site). 
+
+**Climate Change Science, Communication, and Action** (NTRES 2500). (Instructor, 6-week 1-credit course taught concurrently as a massive open online course for an international audience).
+
+**Climate Change Science, Communication, and Action Massive Open Online Course.** (Instructor, facilitator. Co-developed 6-week non-credit massive open online course for international audience). 
+
+**Nature and Culture (NTRES 2320).** (Graduate Teaching Assistant. Mentored undergraduate students in critical thinking and analytic writing, graded writing assignments and exams).
+
+**Climate Change Communication for Environmental Education Online Course.** (Co-instructed 6-week non-credit online course for environmental education professionals). 	
+
+### **SUNY College of Environmental Science and Forestry** <br>
+
+**Literature of Natural History** (EFB 404). (Graduate Teaching Assistant, undergraduate seminar. Facilitated course discussion, lectured on elements of literary analysis).
+Museums (EFB 405). (Graduate Teaching Assistant. Co-developed syllabus, coordinated field trip to Ottawa, Canada).	
+Diversity of Mammals (EFB 483). (Graduate Teaching Assistant, ran cross-listed undergraduate and graduate laboratory). 
+
+General Biology (EFB 102). (Graduate Teaching Assistant, ran introductory undergraduate laboratory).
+
