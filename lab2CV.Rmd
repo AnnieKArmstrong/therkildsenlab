@@ -16,14 +16,14 @@ knitr::opts_chunk$set(echo = TRUE)
 #### 1443 Slaterville Road, Ithaca, NY 14850 | 781-264-7505 | aka@cornell.edu <br>
 #### https://www.linkedin.com/in/anne-armstrong-99916a6/
 
-## **EDUCAION**
+## **EDUCATION**
 
 Cornell University, Ithaca, NY <br>
 **PhD Candidate, Department of Natural Resources and Environment ** 
 [Current]{style="float:right"}  
 <br><br>
-SUNY College of Environmental Sciace and Forestry, Syracuse, NY <br>
-**M.P.S., Environmental InterpretERation ** 
+SUNY College of Environmental Sciance and Forestry, Syracuse, NY <br>
+**M.P.S., Environmental Interpreteration ** 
 [2010]{style="float:right"}
 <br><br>
 Hamilton College <br>
